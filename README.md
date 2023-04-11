@@ -9,3 +9,16 @@
 
 - **[Vue-camera-lib](https://socket.dev/npm/package/vue-camera-lib)**
 
+
+#### Setup
+Set the .env in regards to the database. Then
+
+<br/>Run the folllowing commands: <br/>
+
+- `composer install`
+- `npm install` or `yarn install`
+- `php artisan migrate`
+- `npm run dev`
+- `php artisan serve`
+- open the link: [localhost:8000](http://localhost:8000/)
+
